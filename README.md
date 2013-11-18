@@ -1,4 +1,4 @@
 ProjectEuler
 ============
 
-My Project Euler solutions
+My Project Euler solutions in PHP.
